@@ -69,7 +69,7 @@ Independent developer exploring software, new technologies, automation, and crea
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/clvp012/clvp012/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+![Contribution Snake](https://raw.githubusercontent.com/clvp012/clvp012/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
