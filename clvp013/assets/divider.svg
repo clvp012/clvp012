@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24">
- <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00eaff"/><stop offset=".5" stop-color="#8a5cff"/><stop offset="1" stop-color="#ff50c8"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="2.2"/></filter></defs>
- <path d="M0 12H1200" stroke="url(#g)" stroke-width="1" opacity=".55"/>
- <path d="M0 12H1200" stroke="url(#g)" stroke-width="3" opacity=".45" filter="url(#gl)"/>
- <circle r="3.5" cy="12" fill="#fff" filter="url(#gl)"><animate attributeName="cx" from="0" to="1200" dur="4.5s" repeatCount="indefinite"/></circle>
- <circle r="2" cy="12" fill="#72f7ff"><animate attributeName="cx" from="0" to="1200" dur="4.5s" repeatCount="indefinite"/></circle>
- <circle r="2" cy="12" fill="#ff60d0"><animate attributeName="cx" from="1200" to="0" dur="6.2s" repeatCount="indefinite"/></circle>
- <circle cx="600" cy="12" r="5" fill="none" stroke="url(#g)"><animate attributeName="r" values="3;9;3" dur="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.1;1" dur="2.5s" repeatCount="indefinite"/></circle>
-</svg>
