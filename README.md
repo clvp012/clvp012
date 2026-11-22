@@ -1,146 +1,102 @@
-# clvp013 — GitHub Profile README
+<!-- ═══════════════════════════════════════════════════════════════════════
+     clvp013 // profile interface
+     Replace the project placeholders when you have repositories to feature.
+     ═══════════════════════════════════════════════════════════════════════ -->
 
-Create an extremely modern, visually impressive, animated GitHub profile README.md for a developer named **clvp013**.
+<div align="center">
 
-This is a completely independent developer identity. Do not mention any previous accounts, identities, usernames, projects, personal information, or connections to other developers.
+<img src="assets/hero.svg" width="100%" alt="clvp013 — independent developer animated neon banner" />
 
-## Style
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=72F7FF&center=true&vCenter=true&width=700&lines=%3E+Independent+developer;%3E+Building+digital+experiences;%3E+Exploring+technology;%3E+Turning+ideas+into+code" alt="Animated developer introduction" />
 
-The profile should look like a mix of:
-- Dark futuristic minimalism
-- Cyberpunk aesthetics
-- Hacker terminal interfaces
-- Modern developer portfolio
-- Subtle neon accents
-- Premium UI design
+<br />
 
-Use a black / near-black background aesthetic with subtle cyan, purple, and white accents.
+<a href="https://github.com/clvp013"><img src="https://img.shields.io/badge/GITHUB-clvp013-0b0b12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-0b0b12?style=for-the-badge&logo=statuspage&logoColor=72F7FF" alt="Online status" />
+<img src="https://img.shields.io/badge/FOCUS-CREATION-0b0b12?style=for-the-badge&logo=visualstudio&logoColor=BD7BFF" alt="Focus: creation" />
 
-## Header
+</div>
 
-Create a huge visually impressive header featuring:
+<img src="assets/divider.svg" width="100%" alt="Animated neon divider" />
 
-- Username `clvp013`
-- Animated typing text introducing the developer
-- Glitch effects or futuristic visual elements
-- A custom SVG banner
-- Animated gradient lines
-- Terminal-style decorations
-
-Possible subtitle:
-
-`Independent Developer · Software Engineer · Digital Creator`
-
-Typing animation text:
-
-- Building digital experiences
-- Exploring new technologies
-- Writing code and creating projects
-- Turning ideas into reality
-
-## About Me
-
-Write a short, mysterious but professional introduction.
-
-The developer is an independent programmer who enjoys creating software, experimenting with technologies, developing applications, exploring programming languages, and building projects from scratch.
-
-Do not invent age, location, education, employment, or personal information.
-
-## Tech Stack
-
-Create stylish badges for technologies.
-
-Languages:
-- Python
-- JavaScript
-- TypeScript
-- C#
-- HTML5
-- CSS3
-
-Tools:
-- Git
-- GitHub
-- VS Code
-- Linux
-- Docker
-
-Make this section clean, organized, and visually appealing. Technologies should not look overcrowded.
-
-## Animated Sections
-
-Add:
-
-1. Animated typing SVG
-2. Animated contribution snake
-3. GitHub statistics cards with dark themes
-4. Streak statistics
-5. Most-used languages
-6. Animated divider lines
-7. Terminal-style introduction
-8. Animated footer
-9. Subtle glitch / cyber aesthetic
-10. Hover-like visual effects where GitHub Markdown supports them
-
-## Terminal Section
-
-Create a visually styled terminal block:
+## `01 / ABOUT`
 
 ```text
-$ whoami
-clvp013
-
-$ status
-Building something new...
-
-$ interests
-Software development
-Automation
-Creative coding
-Technology
+┌─ IDENTITY ──────────────────────────────────────────────┐
+│  USER       clvp013                                    │
+│  ROLE       Independent Developer                      │
+│  STATUS     Building something new                     │
+│  INTERESTS  Software · Automation · Creative coding    │
+└────────────────────────────────────────────────────────┘
 ```
 
-## GitHub Statistics
+Independent developer exploring software, new technologies, automation, and creative coding. I like taking an idea, experimenting with it, and turning it into something real.
 
-Include:
-- GitHub Stats
-- Top Languages
-- Contribution Streak
+<img src="assets/divider.svg" width="100%" alt="Animated neon divider" />
 
-Use reliable publicly available SVG services and make sure the URLs are configured for the username `clvp013`.
+## `02 / TECH STACK`
 
-## Featured Projects
+<div align="center">
 
-Create an elegant projects section with placeholders that can later be replaced with real repositories.
+**LANGUAGES**
 
-Each project should have:
-- Name
-- Short description
-- Technology
-- Repository link placeholder
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C sharp, HTML and CSS" />
 
-Don't invent existing projects.
+**TOOLS & ENVIRONMENT**
 
-## Footer
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Git, GitHub, VS Code, Linux and Docker" />
 
-Create an animated footer with:
+</div>
 
-`SYSTEM ONLINE // THANK YOU FOR VISITING`
+<img src="assets/divider.svg" width="100%" alt="Animated neon divider" />
 
-And a subtle animated visual.
+## `03 / GITHUB ANALYTICS`
 
-## Technical Requirements
+<div align="center">
 
-- Output ONLY the complete README.md contents.
-- Use GitHub-compatible Markdown.
-- Use HTML and SVG when necessary.
-- Use CSS only when supported by GitHub README rendering.
-- Do not use JavaScript.
-- All animations must work through external SVGs, GIFs, or supported image URLs.
-- Make sure the README renders correctly on both mobile and desktop.
-- Avoid excessive emoji.
-- Make the design cohesive, polished, and genuinely impressive.
-- Avoid the typical boring template look.
-- Use carefully arranged spacing and separators.
-- Make the profile look like an actual independent developer's identity, not an AI-generated template.
-- Keep all references to `clvp013` consistent.
+<img src="https://github-readme-stats.vercel.app/api?username=clvp013&show_icons=true&hide_border=true&bg_color=05060A&title_color=72F7FF&icon_color=BD7BFF&text_color=C9D1D9&ring_color=FF66D8" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clvp013&layout=compact&hide_border=true&bg_color=05060A&title_color=72F7FF&text_color=C9D1D9" height="165" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=clvp013&theme=dark&hide_border=true&background=05060A&ring=BD7BFF&fire=FF66D8&currStreakLabel=72F7FF&sideLabels=C9D1D9&dates=7C8798" width="90%" alt="GitHub contribution streak" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="Animated neon divider" />
+
+## `04 / CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/clvp013/clvp013/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+
+</div>
+
+> To enable the snake animation, add the workflow from `.github/workflows/snake.yml` in this repository. It will publish the generated SVG to the `output` branch. If the animation is not available yet, the image will appear after the workflow's first successful run.
+
+<img src="assets/divider.svg" width="100%" alt="Animated neon divider" />
+
+## `05 / PROJECTS`
+
+<div align="center">
+
+| PROJECT | DESCRIPTION | STATUS |
+|:--|:--|:--:|
+| `PROJECT_001` | A project currently taking shape. | `WIP` |
+| `PROJECT_002` | Another experiment in progress. | `WIP` |
+| `PROJECT_003` | More things coming. | `SOON` |
+
+</div>
+
+*Replace these placeholders with real projects and repository links when ready.*
+
+<img src="assets/divider.svg" width="100%" alt="Animated neon divider" />
+
+<div align="center">
+
+<img src="assets/footer.svg" width="100%" alt="Animated footer — connection established, thanks for visiting" />
+
+<sub>© clvp013 · Made with curiosity and code.</sub>
+
+</div>
