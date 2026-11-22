@@ -71,9 +71,6 @@ Independent developer exploring software, new technologies, automation, and crea
 
 ![Contribution Snake](https://raw.githubusercontent.com/clvp012/clvp012/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
-> **If the snake is not visible yet:** open the repository’s **Actions** tab → **Generate contribution snake** → **Run workflow**. On the first successful run, GitHub will create the `output` branch and publish the SVG. Make sure Actions are enabled and repository Actions permissions allow write access.
 
 <img src="assets/divider.svg" width="100%" alt="Animated neon divider" />
 
